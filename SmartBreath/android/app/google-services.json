@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369965175320",
+    "project_id": "smartbreath-bb069",
+    "storage_bucket": "smartbreath-bb069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369965175320:android:3cb76bd55d744c756c696d",
+        "android_client_info": {
+          "package_name": "com.example.smartbreath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369965175320-0bto0opre1rb0536sqh9nansvmtpte9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartbreath",
+            "certificate_hash": "363916de597b0c49fc6029b01f7238280c031333"
+          }
+        },
+        {
+          "client_id": "369965175320-rkn4kt6ca70q5n5gj9h1odrqa9943mhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUVJ3b2tcoc0fZRoLz3HiFWDZm8ZtqOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369965175320-rkn4kt6ca70q5n5gj9h1odrqa9943mhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
